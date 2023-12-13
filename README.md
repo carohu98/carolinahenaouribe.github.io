@@ -1,9 +1,25 @@
 # Carolina Henao Uribe
 
 ### Education
-Mechanical engineering, MBA Data Solutions Architecture & NWoW
+**MBA Data Solutions Architecture & NWoW**
+*ESTIAM | Lyon, France| 2023 - 2025*
+- Courses: Data science, data analysis, machine learning, Big Data, IoT, Business Intelligence, DataViz.
+
+**Master's degree in Mechanical Engineering**
+*Centrale | Lyon, France| 2021 - 2023*
+- Design and Simulation specialization.
+- Courses: fluid mechanics, signal processing, numerical methods, statistics, solid mechanics, heat transfer.
+
+**Bsc. Mechanical Engineering**
+*ESTIAM | Lyon, France| 2023 - 2025*
+- Courses: CAD/CAM/CAE, automatics and robotics, finite element method.
 
 ### Work experience
+
+**Brand representative**
+*Hollister Co. | Lyon, France| August 2023 - September 2023*
+- Customer service, brand representative, cashier, stock associate.
+
 **Mechatronic design engineering intern**
 *LIBM Jean Monnet | Saint-Étienne, France| February 2023 - July 2023*
 - Design of a vibrating medical device that can be used in muscle or tendon stimulation research.
