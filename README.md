@@ -15,6 +15,11 @@ Mechanical engineering, MBA Data Solutions Architecture & NWoW
 
   **Research assistant in robotics and automatics**
 *ARES Research Group at EAFIT University| Medellin, Colombia | January 2020 - December 2020*
+- Research project 1 : implementation of augmented reality models for control systems.
+- Research project 2 : control of a parallel robot using computer vision and deep learning.
 
+**Teaching assistant**
+*EAFIT University| Medellin, Colombia | January 2019 - June 2020*
+- Teaching assistant in the courses of CAD/CAM/CAE and finite element method.
 
 
